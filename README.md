@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>I am a Computer Science Student. Feel free to contact me for Collaboration opportunities :)</p>
+<p>I am a Computer Science Student at IIT Guwahati. Feel free to contact me for Collaboration opportunities :)</p>
 <p>Checkout My Website <a href="https://myplace13.netlify.app/">🔗</a></p>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=chelsi-001011 alt=chelsi-001011/></p>
